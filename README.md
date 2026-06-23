@@ -62,13 +62,13 @@ Final Efficiency Ratings:
 ## Power BI Dashboard
 
 ### Page 1 — Campaign Overview
-![Campaign Overview](C:\Users\Sandhya\OneDrive\Desktop\MARKETING CAMPAIGN ROI TRACKER\PowerBI Reports)
+![Campaign Overview]C:\Users\Sandhya\OneDrive\Desktop\MARKETING CAMPAIGN ROI TRACKER\PowerBI Reports
 
 ### Page 2 — Channel Analysis
-![Channel Analysis](C:\Users\Sandhya\OneDrive\Desktop\MARKETING CAMPAIGN ROI TRACKER\PowerBI Reports)
+![Channel Analysis]C:\Users\Sandhya\OneDrive\Desktop\MARKETING CAMPAIGN ROI TRACKER\PowerBI Reports
 
 ### Page 3 — Efficiency Analysis
-![Efficiency Analysis](C:\Users\Sandhya\OneDrive\Desktop\MARKETING CAMPAIGN ROI TRACKER\PowerBI Reports)
+![Efficiency Analysis]C:\Users\Sandhya\OneDrive\Desktop\MARKETING CAMPAIGN ROI TRACKER\PowerBI Reports
 
 ## Contact
 Your Name: Nadimidoddi Sandhya Rani
